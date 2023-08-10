@@ -1,0 +1,2 @@
+Prefix plugins/FastTree/example/
+Plugin FastTree inputfile aligned.fa outputfile out.tre
